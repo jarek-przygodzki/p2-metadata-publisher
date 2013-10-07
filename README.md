@@ -1,6 +1,6 @@
 p2-metadata-publisher
 =====================
-Based on [code](http://www.eclipse.org/forums/index.php/mv/msg/159026/502559/#msg_502559) published by **Phil Denis** on _Eclipse Community Forums_ in repose to question "[p2] how to generate "a.jre.javase" IU?" In case the web page goes down I'm quoting his answer here
+Based on [code](http://www.eclipse.org/forums/index.php/mv/msg/159026/502559/#msg_502559) published by **Phil Denis** on _Eclipse Community Forums_ in repose to question ["[p2] how to generate "a.jre.javase" IU?"](http://www.eclipse.org/forums/index.php/t/159026/). In case the web page goes down I'm quoting his answer here
 
 >You cannot use FeaturesAndBundles publisher to do this (__generate "a.jre.javase" IU__). Metadata generation was completely refactored.
 
