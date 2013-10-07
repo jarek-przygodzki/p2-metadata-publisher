@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.jarekprzygodzki.p2.publisher.feature"
+      label="P2 Metadata Publisher Application"
+      version="1.0.0.qualifier"
+      provider-name="Jarek Przygodzki">
+
+   <plugin
+         id="net.jarekprzygodzki.p2.publisher"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

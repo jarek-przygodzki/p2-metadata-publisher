@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: P2 Metadata Publisher
+Bundle-SymbolicName: net.jarekprzygodzki.p2.publisher;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.equinox.p2.publisher;bundle-version="1.3",
+ org.eclipse.equinox.p2.publisher.eclipse;bundle-version="1.1",
+ org.eclipse.equinox.app;bundle-version="1.3"
